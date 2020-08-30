@@ -1,5 +1,5 @@
 _repo: Autographs-for-Freedom-by-Mrs-Harriet-Beecher-Stowe-and-Thirty-five-Other-Eminent-Writers_62962
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Stowe, Harriet Beecher
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '115'
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+covers:
+- cover_type: archival
+  image_path: 62962-h/images/cover.jpg
 creator:
   editor:
     agent_name: Griffiths, Julia
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8984
     wikipedia: https://en.wikipedia.org/wiki/Julia_Griffiths
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62962#Autographs-for-Freedom-by-Mrs-Harriet-Beecher-Stowe-and-Thirty-five-Other-Eminent-Writers
 gutenberg_issued: '2020-08-18'
 gutenberg_type: Text
 identifiers:
