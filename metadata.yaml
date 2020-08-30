@@ -1,0 +1,40 @@
+_repo: Autographs-for-Freedom-by-Mrs-Harriet-Beecher-Stowe-and-Thirty-five-Other-Eminent-Writers_62962
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+creator:
+  editor:
+    agent_name: Griffiths, Julia
+    alias: Crofts, Julia Griffiths
+    birthdate: 1811
+    deathdate: 1895
+    gutenberg_agent_id: '8984'
+    url: http://www.gutenberg.org/2009/agents/8984
+    wikipedia: https://en.wikipedia.org/wiki/Julia_Griffiths
+description: ''
+gutenberg_issued: '2020-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Antislavery movements -- United States'
+- !lcc 'E300'
+- GITenberg
+title: Autographs for Freedom, by Mrs. Harriet Beecher Stowe, and Thirty-five Other
+  Eminent Writers
+url: http://www.gutenberg.org/ebooks/62962
